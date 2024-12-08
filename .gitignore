@@ -1,0 +1,10 @@
+# .gitignore
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+poetry.lock
+debug.log
